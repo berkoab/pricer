@@ -1,0 +1,21 @@
+{
+  "name": "pricer",
+  "version": "1.0.0",
+  "description": "ebay pricer",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.2",
+    "cors": "~2.8.3",
+    "express": "~4.15.3",
+    "mongoose": "~4.11.0",
+    "swagger-ui-express": "^3.0.6"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/cli": "^1.7.3"
+  }
+}
